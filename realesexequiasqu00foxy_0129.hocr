@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./realesexequiasqu00foxy_0129.png"; bbox 0 0 2075 2953; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 151 332 245 344">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 151 332 245 344">
+     <span class='ocr_line' id='line_1_1' title="bbox 151 332 245 344; baseline -0.021 2"><span class='ocrx_word' id='word_1_1' title='bbox 151 332 245 344; x_wconf 39' lang='grc' dir='ltr'>χ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 153 284 1637 441">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 153 284 1637 441">
+     <span class='ocr_line' id='line_1_2' title="bbox 153 284 1637 441; baseline -0.024 -15"><span class='ocrx_word' id='word_1_2' title='bbox 153 284 991 425; x_wconf 36' lang='lat' dir='ltr'><em>esaum</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 1034 294 1351 407; x_wconf 44' lang='lat' dir='ltr'><em>ww</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 1392 304 1432 396; x_wconf 58' lang='grc' dir='ltr'><em>υ</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 1632 392 1637 393; x_wconf 14' lang='lat' dir='ltr'>ff</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 45 76 89 1824">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 45 76 89 1824">
+     <span class='ocr_line' id='line_1_3' title="bbox 45 76 89 1824; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 45 76 89 1824; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
